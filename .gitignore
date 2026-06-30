@@ -1,0 +1,7 @@
+*.o
+ex00/Fixed
+ex01/Fixed
+ex02/Fixed
+*.exe
+.vscode/
+.DS_Store
